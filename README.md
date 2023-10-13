@@ -74,7 +74,7 @@ If you encounter any problems or have suggestions for improvements, please creat
 
 ## Authors
 
-- Hamza Patwa - [Your GitHub Profile](https://github.com/hamzapatwa)
+- Hamza Patwa - [GitHub Profile](https://github.com/hamzapatwa)
 
 ## Credits
 
@@ -104,4 +104,3 @@ This program is for educational purposes only. Please use it responsibly and eth
 
 ---
 
-Feel free to modify and expand this README to better suit your project's needs. You can add more sections or details as necessary.
