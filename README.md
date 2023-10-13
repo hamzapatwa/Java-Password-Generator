@@ -1,4 +1,3 @@
-Certainly! Here's a detailed README template for your GitHub repository for the Password Generator Java application. You can customize and expand upon this template as needed.
 
 ---
 
