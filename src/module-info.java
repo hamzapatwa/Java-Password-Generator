@@ -6,4 +6,6 @@
  *
  */
 module JavaPasswordGenerator {
+	requires java.datatransfer;
+	requires java.desktop;
 }

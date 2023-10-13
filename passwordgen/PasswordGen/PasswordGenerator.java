@@ -176,7 +176,7 @@ public class PasswordGenerator extends JFrame implements ActionListener, ChangeL
 
     public static void main(String[] args) {
         // Create an instance of the PasswordGenerator class
-        PasswordGenerator passworGen = new PasswordGenerator();
+        PasswordGenerator passwordGene = new PasswordGenerator();
     }
 }
 
