@@ -8,7 +8,7 @@ Certainly! Here's a detailed README template for your GitHub repository for the 
 
 A simple and user-friendly Java application for generating secure passwords with customizable parameters.
 
-![Password Generator Screenshot](screenshot.png)
+[![screenshot.png](https://i.postimg.cc/3rb0Q55f/screenshot.png)](https://postimg.cc/Thg3nsPn)
 
 ## Features
 
