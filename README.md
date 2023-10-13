@@ -82,7 +82,7 @@ If you encounter any problems or have suggestions for improvements, please creat
 
 ## Support
 
-For support or inquiries, you can contact us at your@email.com.
+For support or inquiries, you can contact us at patwahamza02@gmail.com.
 
 ## Roadmap
 
